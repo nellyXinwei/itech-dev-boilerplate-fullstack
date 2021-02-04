@@ -70,8 +70,15 @@ anyways add this folder to your code editor so you can see the action running by
 Now that we initialised this repository as a git repository, let us now setup our strapi cms backend in our project repo.
 
  
+<details>
+<summary>Optional Suggestions ;) :</summary>
+- 
 
-- Optional Suggestions ;) :
+    you can commit your changes muna to github so just in case you guys fucked up somewhere, you can always discard your changes and start somewhere instead of starting all over again ;)) nyehehhe.
+
+    after commiting, you guys can continue working on your present branch (master). you can create a new branch for the strapi setup (just in case), but you dont need to :)).
+</details>
+
 
 ## Strapi Installation and Setup
 
