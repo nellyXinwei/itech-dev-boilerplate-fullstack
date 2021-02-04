@@ -3,7 +3,7 @@
 ### CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application
 - TechStack:
     - Backend (Strapi)
-    - Frontend (Vue, Gridsome, Tailwind CSS, Consuming Backend API with REST/GraphQL using Axios)
+    - Frontend (Vue, Gridsome, Tailwind CSS, Consuming Backend API with REST/GraphQL using Axios/Gridsome Plugins)
 
 
 
