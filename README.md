@@ -1,4 +1,5 @@
-# ITECH DEV BOILERPLATE FULLSTACK - TRAINING FOR MY NEW ITECH DEV PEEPS OwO
+# ITECH DEV BOILERPLATE FULLSTACK - 
+### TRAINING FOR MY NEW ITECH DEV PEEPS OwO
 ### CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application
 - TechStack:
     - Backend (Strapi)
