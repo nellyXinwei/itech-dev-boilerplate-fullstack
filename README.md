@@ -1,15 +1,32 @@
-CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application
-
-- Fullstack:
+# ITECH DEV BOILERPLATE FULLSTACK - TRAINING FOR MY NEW ITECH DEV PEEPS OwO
+### CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application
+- TechStack:
     - Backend (Strapi)
     - Frontend (Vue, Gridsome, Tailwind CSS, Consuming Backend API with REST/GraphQL using Axios)
-- TRAINING FOR ITECH DEV CURRICULUM
+
+
+<details>
+<summary>TABLE OF CONTENTS:</summary>
+- [ITECH DEV BOILERPLATE FULLSTACK - TRAINING FOR MY NEW ITECH DEV PEEPS OwO](#itech-dev-boilerplate-fullstack---training-for-my-new-itech-dev-peeps-owo)
+    - [CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application](#crashcourse-on-techstack-simple-fullstack-course-learning-monorepo-application)
+- [I. GIT & GITHUB SETUP](#i-git--github-setup)
+- [II.STRAPI](#iistrapi)
+  - [Setting up our Strapi CMS Backend](#setting-up-our-strapi-cms-backend)
+  - [Strapi Installation and Setup](#strapi-installation-and-setup)
+  - [Create Article Content Type](#create-article-content-type)
+  - [Create Categories Content Type](#create-categories-content-type)
+  - [Create Authors Content Type](#create-authors-content-type)
+  - [Adding the contents to have data](#adding-the-contents-to-have-data)
+    - [Adding categories to categories collection](#adding-categories-to-categories-collection)
+    - [Adding authors to authors collection](#adding-authors-to-authors-collection)
+    - [Adding articles to articles collection type](#adding-articles-to-articles-collection-type)
+  - [Set Roles and Permissions](#set-roles-and-permissions)
+
+</details>
+
 
 ---
 
-# ITECH DEV BOILERPLATE FULLSTACK
-
-- **TABLE OF CONTENTS:**
 
 # I. GIT & GITHUB SETUP
 
