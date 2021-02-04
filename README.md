@@ -5,8 +5,9 @@
     - Frontend (Vue, Gridsome, Tailwind CSS, Consuming Backend API with REST/GraphQL using Axios)
 
 
-<details>
-<summary>TABLE OF CONTENTS:</summary>
+
+TABLE OF CONTENTS:
+
 - [ITECH DEV BOILERPLATE FULLSTACK - TRAINING FOR MY NEW ITECH DEV PEEPS OwO](#itech-dev-boilerplate-fullstack---training-for-my-new-itech-dev-peeps-owo)
     - [CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application](#crashcourse-on-techstack-simple-fullstack-course-learning-monorepo-application)
 - [I. GIT & GITHUB SETUP](#i-git--github-setup)
@@ -22,7 +23,6 @@
     - [Adding articles to articles collection type](#adding-articles-to-articles-collection-type)
   - [Set Roles and Permissions](#set-roles-and-permissions)
 
-</details>
 
 
 ---
