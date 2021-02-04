@@ -92,9 +92,9 @@ npx create-strapi-app backend --quickstart
 
 make sure you guys have node.js and yarn, if you guys dont have node or yarn, please install them na lang:
 
-[Node.js](https://nodejs.org/en/)
+[https://nodejs.org/en/](https://nodejs.org/en/)
 
-[Home](https://yarnpkg.com)
+[https://yarnpkg.com](https://yarnpkg.com)
 
 installing node.js also install npm (node package manager). Both yarn and npm are package managers that install and manage packages for you when you guys are working on these dev projects. 
 
