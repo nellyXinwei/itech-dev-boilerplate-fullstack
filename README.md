@@ -1,5 +1,3 @@
-[Quick Start Guide](https://strapi.io/documentation/developer-docs/latest/getting-started/quick-start.html#_1-install-strapi-and-create-a-new-project)
-
 CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application
 
 - Fullstack:
@@ -38,7 +36,7 @@ cd itech-dev-boilerplate-fullstack
 git init
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41f8c261-7853-4ed4-9675-fa9955c1edd4/Screenshot_2021-02-04_at_11.40.35.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41f8c261-7853-4ed4-9675-fa9955c1edd4/Screenshot_2021-02-04_at_11.40.35.png)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/41f8c261-7853-4ed4-9675-fa9955c1edd4/Screenshot_2021-02-04_at_11.40.35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210204T071256Z&X-Amz-Expires=86400&X-Amz-Signature=c82d7c0427cb5ac02b772f98abca6f6c2800970af593ff0882d48455c53449e6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Screenshot_2021-02-04_at_11.40.35.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/41f8c261-7853-4ed4-9675-fa9955c1edd4/Screenshot_2021-02-04_at_11.40.35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210204T071256Z&X-Amz-Expires=86400&X-Amz-Signature=c82d7c0427cb5ac02b772f98abca6f6c2800970af593ff0882d48455c53449e6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Screenshot_2021-02-04_at_11.40.35.png)
 
 3. Upload it now to github. You can do this easily with github desktop! First add this existing local repository to your github desktop app, then publish this repository to your github.
 
