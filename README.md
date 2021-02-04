@@ -9,7 +9,6 @@
 TABLE OF CONTENTS:
 
 - [ITECH DEV BOILERPLATE FULLSTACK - TRAINING FOR MY NEW ITECH DEV PEEPS OwO](#itech-dev-boilerplate-fullstack---training-for-my-new-itech-dev-peeps-owo)
-    - [CrashCourse on TechStack: Simple FullStack Course Learning (Monorepo) Application](#crashcourse-on-techstack-simple-fullstack-course-learning-monorepo-application)
 - [I. GIT & GITHUB SETUP](#i-git--github-setup)
 - [II.STRAPI](#iistrapi)
   - [Setting up our Strapi CMS Backend](#setting-up-our-strapi-cms-backend)
